@@ -1,0 +1,9 @@
+<net>
+	<Stimulus name="In1" Out="4" />
+	<Stimulus name="In2" Out="2"/>
+	<NOT name="U1"  In="4" Out="1"/>
+	<NOT name ="U2" In="2" Out="5" />
+	<NOR2 name ="U3" In0="1" In1="2" Out="3" />
+	<NOR2 name ="U4" In0="4" In1="5" Out="6" />
+	<NOR2 name ="U5" In0="3" In1="6" Out="7"/>
+</net>

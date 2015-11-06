@@ -1,0 +1,12 @@
+<Stimula>
+	<wave comp="In1" TimeStep="1" Start="0">
+		<value type="1" time="2" />
+		<value type="0" time="5" />
+		<value type="1" time="9" />
+	</wave>
+	<wave comp="In2" TimeStep="1" Start="0">
+		<value type="1" time="3" />
+		<value type="0" time="4" />
+		<value type="1" time="7" />
+	</wave>
+</Stimula>

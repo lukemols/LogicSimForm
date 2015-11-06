@@ -1,0 +1,108 @@
+////ESEGUITO CON IL PROGRAMMA ORIGINALE 
+Step: 0
+Node 4  False
+Node 2  False
+Node 1  
+Node 5  
+Node 3  
+Node 6  
+Node 7  
+ 
+Step: 1
+Node 4  False
+Node 2  False
+Node 1  True
+Node 5  True
+Node 3  
+Node 6  
+Node 7  
+ 
+Step: 2
+Node 4  True
+Node 2  False
+Node 1  True
+Node 5  True
+Node 3  False
+Node 6  False
+Node 7  
+ 
+Step: 3
+Node 4  True
+Node 2  True
+Node 1  False
+Node 5  True
+Node 3  False
+Node 6  False
+Node 7  True
+ 
+Step: 4
+Node 4  True
+Node 2  False
+Node 1  False
+Node 5  False
+Node 3  False
+Node 6  False
+Node 7  True
+ 
+Step: 5
+Node 4  False
+Node 2  False
+Node 1  False
+Node 5  True
+Node 3  True
+Node 6  False
+Node 7  True
+ 
+Step: 6
+Node 4  False
+Node 2  False
+Node 1  True
+Node 5  True
+Node 3  True
+Node 6  False
+Node 7  False
+ 
+Step: 7
+Node 4  False
+Node 2  True
+Node 1  True
+Node 5  True
+Node 3  False
+Node 6  False
+Node 7  False
+ 
+Step: 8
+Node 4  False
+Node 2  True
+Node 1  True
+Node 5  False
+Node 3  False
+Node 6  False
+Node 7  True
+ 
+Step: 9
+Node 4  True
+Node 2  True
+Node 1  True
+Node 5  False
+Node 3  False
+Node 6  True
+Node 7  True
+ 
+Step: 10
+Node 4  True
+Node 2  True
+Node 1  False
+Node 5  False
+Node 3  False
+Node 6  False
+Node 7  False
+ 
+Step: 11
+Node 4  True
+Node 2  True
+Node 1  False
+Node 5  False
+Node 3  False
+Node 6  False
+Node 7  True
